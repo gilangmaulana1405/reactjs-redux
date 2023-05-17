@@ -3,6 +3,7 @@
     { "id": 1, "nama": "gilang", "alamat": "karawang" },
     { "id": 2, "nama": "hanna", "alamat": "bekasi" },
     { "id": 3, "nama": "ibnu", "alamat": "indramayu" },
-    { "id": 4, "nama": "hagi", "alamat": "jakarta" }
+    { "id": 4, "nama": "hagi", "alamat": "jakarta" },
+    { "id": 5, "nama": "aji", "alamat": "bandung" }
   ]
 }
